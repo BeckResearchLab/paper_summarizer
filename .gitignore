@@ -161,3 +161,4 @@ cython_debug/
 
 # pipeline files
 deposit/*md
+config
